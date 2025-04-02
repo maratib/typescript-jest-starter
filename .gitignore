@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+.env
+.out
+# Ignore test-related files
+/coverage.data
+/coverage/
+package-lock.json
+# Build files
+/dist
