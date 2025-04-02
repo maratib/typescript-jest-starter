@@ -1,6 +1,6 @@
 # Typescript Jest Starter
 
-Typescript quick starter with Jest testing included
+Typescript quick starter with Jest testing included, plus (eslint, husky)
 
 **VSCode settings specifically for this project**
 
