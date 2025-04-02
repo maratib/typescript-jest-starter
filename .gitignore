@@ -5,6 +5,7 @@ node_modules
 # Ignore test-related files
 /coverage.data
 /coverage/
+.husky
 package-lock.json
 # Build files
 /dist
