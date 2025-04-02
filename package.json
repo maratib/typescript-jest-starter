@@ -22,10 +22,10 @@
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p tsconfig.build.json",
     "test": "jest",
     "test:watch": "jest --watch",
-    "dev": "ts-node src/index.ts"
+    "dev": "tsx src/index.ts"
   },
   "devDependencies": {
     "@types/jest": "^29.5.14",
@@ -34,7 +34,7 @@
     "prettier": "^3.5.3",
     "ts-jest": "^29.3.1",
     "ts-node": "^10.9.2",
-    "tsconfig-paths": "^4.2.0",
+    "tsx": "^4.19.3",
     "typescript": "^5.8.2"
   }
 }

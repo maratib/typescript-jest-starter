@@ -1,6 +1,5 @@
 {
   "jest.runMode": "on-demand",
-  "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "javascript.preferences.importModuleSpecifier": "non-relative"
 }
