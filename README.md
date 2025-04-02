@@ -16,3 +16,7 @@ Typescript quick starter with Jest testing included
 ## VSCode extensions required:
 
 [VSCode-Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+
+## License
+
+© [Maratib Ali Khan](https://maratib.github.io)
